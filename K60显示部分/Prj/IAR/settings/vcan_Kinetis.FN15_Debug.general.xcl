@@ -1,0 +1,17 @@
+"D:\arm\bin\armproc.dll" 
+
+"D:\arm\bin\armjlink2.dll" 
+
+"D:\STM32F103VE学习\智能水杯垫\LCD_触摸屏_画板\Prj\IAR\FN15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "D:\arm\bin\armbat.dll" 
+
+--device_macro "D:\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
